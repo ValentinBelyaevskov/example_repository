@@ -2,7 +2,7 @@ console.log("created app file");
 
 const newApi;
 
-let Age;
-let newApi;
+let newApi = "deleted";
+let checkBranch = "created";
 
 let name = "John";
