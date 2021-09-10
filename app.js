@@ -4,3 +4,5 @@ const newApi;
 
 let Age;
 let newApi;
+
+let name = "John";
