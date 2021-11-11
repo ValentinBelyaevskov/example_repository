@@ -5,3 +5,5 @@ const newApi;
 let length;
 
 let Age;
+
+let newAge;
