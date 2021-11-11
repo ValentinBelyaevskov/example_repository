@@ -6,4 +6,4 @@ let length;
 
 let Age;
 
-let newAge;
+let newAg;
